@@ -1,4 +1,4 @@
-# snake-game
+![bg](https://github.com/user-attachments/assets/ffcbf52a-a944-4591-b4d3-4f2c99989486)# snake-game
 A simple Snake Game built using HTML, CSS, and JavaScript.
 
 ## Features
