@@ -1,4 +1,5 @@
-![Uploading image.png…]()
+<img width="834" height="440" alt="Game" src="https://github.com/user-attachments/assets/e9d6075a-98f5-48c3-bb65-3360ed678aa8" />![Uploading image.png…]()
+
 
 # snake-game
 A simple Snake Game built using HTML, CSS, and JavaScript.
